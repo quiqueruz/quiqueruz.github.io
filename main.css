@@ -4,7 +4,7 @@ body {
 nav {
     padding: 20px;
     text-align: right;
-    background-color: white;
+    background-color: rgb(217, 217, 217);
 }
 .nav {
     text-decoration: none;
