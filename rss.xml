@@ -1,0 +1,19 @@
+<?xml version=»1.0″ encoding=»UTF-8″ ?>
+<rss version=»2.0″>
+    
+    <channel>
+
+        <title>RSS de Enrique Ruz</title>
+        <link>https://quiqueruz.github.io/</link>
+        <description>Página web de Enrique Ruz</description>
+        <item>
+            <title></title>
+            <autor>Enrique</autor>
+            <link></link>
+            <description></description>
+            <comments></comments>
+        </item>
+
+    </channel>
+
+</rss>

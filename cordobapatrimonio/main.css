@@ -1,0 +1,56 @@
+h1 {
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    padding: 110px;
+    margin: 0px;
+    background-image: url(images/cpbackground.png);
+    background-position: left;
+}
+nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+    background-color: rgb(180, 180, 180);
+}
+.nav {
+    text-decoration: none;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(35, 35, 35);
+}
+.nav:hover {
+    color: rgb(255, 0, 0);
+}
+article {
+    text-decoration: none;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+h2 {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#imglateral {
+    text-decoration: none;
+    float: right;
+    width: 300px;
+    height: 350px;
+    margin-right: 70px;
+}
+#location {
+    text-align: right;
+}
+footer {
+    text-decoration: none;
+    padding: 0px;
+    margin-top: 200px;
+    text-align: left;
+    background-color: rgb(177, 206, 230);
+}
